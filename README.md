@@ -1,4 +1,4 @@
-# nullos p[lymouthj-theme
+# nullos plymouth-theme
 
 This is an animated bootsplash for plymouth.
 
