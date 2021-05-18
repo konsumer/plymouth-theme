@@ -4,7 +4,7 @@ This is an animated bootsplash for plymouth.
 
 ## installation
 
-You can install it on  a raspberry pi runnign raspbian, like this:
+You can install it on  a raspberry pi running raspbian, like this:
 
 ```sh
 sudo apt install -y plymouth plymouth-label plymouth-themes
@@ -18,3 +18,5 @@ Then add something like this to your `/boot/cmdline.txt`:
 ```
 quiet splash plymouth.enable=1 plymouth.ignore-serial-consoles
 ```
+
+Adapt this to other platforms/distros, as needed.
