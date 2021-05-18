@@ -13,7 +13,7 @@ sudo ln -s /usr/lib/arm-linux-gnueabihf/plymouth/script.so /usr/lib/arm-linux-gn
 plymouth-set-default-theme notnull
 ```
 
-Then add somethign liek this to your `/boot/cmdline.txt`:
+Then add something like this to your `/boot/cmdline.txt`:
 
 ```
 quiet splash plymouth.enable=1 plymouth.ignore-serial-consoles
