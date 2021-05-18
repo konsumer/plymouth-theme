@@ -2,6 +2,8 @@
 
 This is an animated bootsplash for plymouth.
 
+![screenshot](https://media.giphy.com/media/4PgwiQCrH3iqkNHN04/giphy.gif)
+
 ## installation
 
 You can install it on  a raspberry pi running raspbian, like this:
